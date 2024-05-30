@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <div align=center>
   <a href="#" title="Toandz1125">
-    <img width="434" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Toandz1125&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img width="429" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Toandz1125&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Toandz1125">
-    <img align="center" width="415" src="https://github-readme-stats.vercel.app/api?username=Toandz1125&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=Toandz1125&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
