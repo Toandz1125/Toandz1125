@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote 📑
 <br>
 <a href="#" target="_blank">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="806" height="110" alt="trungquandev-official" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="796" height="100" alt="trungquandev-official" />
 </a>
 
