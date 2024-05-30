@@ -43,12 +43,9 @@ Here are some ideas to get you started:
 </div>
 
 
-### 🔝 Top Contributed Repo 🔥
+## 🔝 Top Contributed Repo 🔥
 ![](https://github-contributor-stats.vercel.app/api?username=Toandz1125&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote 📑
-<br>
-<a href="#" target="_blank">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="796" height="100" alt="trungquandev-official" />
-</a>
+## ✍️ Random Dev Quote 📑
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
