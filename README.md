@@ -48,8 +48,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote 📑
 <br>
-<div align=center>
-  <a href="#" title="Toandz1125">
-    <img width="450" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  </a>
-</div>
+<a href="#" target="_blank">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="846" height="150" alt="trungquandev-official" />
+</a>
+
