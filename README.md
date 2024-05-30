@@ -47,5 +47,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Toandz1125&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## ✍️ My Favorites Quote 📑
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
