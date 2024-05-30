@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Toandz1125&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## ✍️ My Favorites Quote 📑:
+<br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align=center>
+  <a href="#" title="Toandz1125">
+    <img width="550" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  </a>
+</div>
