@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 
 ## 🔝 Top Contributed Repo 🔥:
 ![](https://github-contributor-stats.vercel.app/api?username=Toandz1125&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<a href="https://github.com/Toandz1125/Crypto-price-tickers/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Toandz1125&repo=Crypto-price-tickers&theme=highcontrast" />
+</a>
 ## ✍️ My Favorites Quote 📑:
 <br>
 
