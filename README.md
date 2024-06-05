@@ -65,4 +65,5 @@ Here are some ideas to get you started:
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Toandz1125&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Toandz1125&icon=7&color=4)](https://github.com/Toandz1125)
