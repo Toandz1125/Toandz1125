@@ -7,13 +7,14 @@
 Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
+⭐💙☕😊📺🔑🙋‍♂️
 - 🔭 I’m currently working on **VJU/VNU**
-- 🌱 I’m currently learning **Full Stack**
-- 👯 I’m looking to collaborate on **Frontend and Backend Dev Projects** 
-- 🤔 I’m looking for help with **Coding**
-- 💬 Ask me about **Technology and Personal Development**
+- 👩🏻‍🎓 I’m currently learning **Full Stack**
+- 👩🏻‍💻 I’m looking to collaborate on **Frontend and Backend Dev Projects** 
+- 🎨 I’m looking for help with **Coding**
+- 💭 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **naithetoan2005@gmail.com**
-- 😄 Pronouns: He/Him
+- 🌷 Pronouns: He/Him
 - ⚡ Fun fact: *I am a Beginner*
 
 # <img width="40" src="https://em-content.zobj.net/source/samsung/260/dizzy_1f4ab.png">About Me:
@@ -42,7 +43,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
+# 💻 Featured YouTube Videos
+<!--[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+-->
 ## 🔝 Top Contributed Repo 🔥:
 ![](https://github-contributor-stats.vercel.app/api?username=Toandz1125&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -66,4 +69,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Toandz1125&icon=7&color=4)](https://github.com/Toandz1125)
+[![](https://visitcount.itsvg.in/api?id=Toandz1125&icon=7&color=3)](https://github.com/Toandz1125)
