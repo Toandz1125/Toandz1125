@@ -51,6 +51,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Toandz1125&repo=Crypto-price-tickers&theme=highcontrast" />
 </a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Toandz1125&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 ## ✍️ My Favorites Quote 📑:
 <br>
 
@@ -59,3 +63,6 @@ Here are some ideas to get you started:
     <img width="550" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   </a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Toandz1125&icon=0&color=0)](https://visitcount.itsvg.in)
