@@ -71,4 +71,10 @@ Here are some ideas to get you started:
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+<br>
+
 [![](https://visitcount.itsvg.in/api?id=Toandz1125&icon=7&color=3)](https://github.com/Toandz1125)
