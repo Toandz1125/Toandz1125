@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # <img width="40" src="https://em-content.zobj.net/source/samsung/260/dizzy_1f4ab.png">About Me:
 <div align="center">
-  A fun, friendly person who likes to study, listen to music, play the guitar, and go jogging. Looking forward to having a development team that always wants to improve themselves and learn new things. I look forward to finding many opportunities to develop myself.
+  A funny and friendly person who likes to study, listen to music, play the guitar, and go jogging. Looking forward to having a development team and always wants to improve themselves and learn new things. I look forward to finding many opportunities to develop myself.
 </div>
 
 ## 🌐 Socials:
