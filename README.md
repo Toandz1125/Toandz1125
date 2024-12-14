@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: *I am a Beginner*
 
 # <img width="40" src="https://em-content.zobj.net/source/samsung/260/dizzy_1f4ab.png">About Me:
-A fun, friendly person who likes to study, listen to music, play the guitar, and go jogging. Looking forward to having a development team, that always wants to improve themselves and learn new things. I look forward to finding many opportunities to develop myself.
+<div style="text-align: center;">
+  A fun, friendly person who likes to study, listen to music, play the guitar, and go jogging. Looking forward to having a development team, that always wants to improve themselves and learn new things. I look forward to finding many opportunities to develop myself.
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9YmDvhe4) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maitoan0101) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maitoan0101) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hahahihihuhu0101) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maitoan3624) 
