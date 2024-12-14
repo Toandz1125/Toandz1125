@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: *I am a Beginner*
 
 # <img width="40" src="https://em-content.zobj.net/source/samsung/260/dizzy_1f4ab.png">About Me:
-<div style="text-align: center;">
-  A fun, friendly person who likes to study, listen to music, play the guitar, and go jogging. Looking forward to having a development team, that always wants to improve themselves and learn new things. I look forward to finding many opportunities to develop myself.
+<div align="center">
+  A fun, friendly person who likes to study, listen to music, play the guitar, and go jogging. Looking forward to having a development team that always wants to improve themselves and learn new things. I look forward to finding many opportunities to develop myself.
 </div>
 
 ## 🌐 Socials:
