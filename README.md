@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ⭐💙☕😊📺🔑🙋‍♂️
 - 🔭 I’m currently working on **VJU/VNU**
 - 👩🏻‍🎓 I’m currently learning **Full Stack**
-- 👩🏻‍💻 I’m looking to collaborate on **Frontend and Backend Dev Projects** 
+- 👩🏻‍💻 I’m looking to collaborate on **Information Security Dev Projects** 
 - 🎨 I’m looking for help with **Coding**
 - 💭 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **naithetoan2005@gmail.com**
