@@ -49,7 +49,12 @@ Here are some ideas to get you started:
 </div>
 
 # 💻 Featured YouTube Videos
-[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![CRYPTO PRICE TICKERS | Thiết bị hiển thị giá nhiều loại tiền mã hóa, cập nhật liên tục và chính xác](https://ytcards.demolab.com/?id=hUmSBBVVLpE&title=CRYPTO+PRICE+TICKERS+|+Thiết+bị+hiển+thị+giá+nhiều+loại+tiền+mã+hóa+,+cập+nhật+liên+tục+và+chính+xác&lang=vi&timestamp=1734606850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "CRYPTO PRICE TICKERS | Thiết bị hiển thị giá nhiều loại tiền mã hóa, cập nhật liên tục và chính xác")](https://www.youtube.com/watch?v=hUmSBBVVLpE&t=2s)
 ## 🔝 Top Contributed Repo 🔥:
 ![](https://github-contributor-stats.vercel.app/api?username=Toandz1125&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
