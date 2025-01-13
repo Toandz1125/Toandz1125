@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![NỀN TẢNG ĐÓNG GÓP TÀI CHÍNH TỪ THIỆN, SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN VÀ CÁC HỆ MẬT ĐỂ BẢO MẬT](https://ytcards.demolab.com/?id=n0YPaJkBPC8&title=Nền+tảng+đóng+góp+tài+chính+từ+thiện,+sử+dụng+công+nghệ+blockchain+và+các+hệ+mật+để+bảo+mật&lang=vi&timestamp=1736764602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=321 "NỀN TẢNG ĐÓNG GÓP TÀI CHÍNH TỪ THIỆN, SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN VÀ CÁC HỆ MẬT ĐỂ BẢO MẬT")](https://www.youtube.com/watch?v=n0YPaJkBPC8)
+[![NỀN TẢNG ĐÓNG GÓP TÀI CHÍNH TỪ THIỆN, SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN VÀ CÁC HỆ MẬT ĐỂ BẢO MẬT](https://ytcards.demolab.com/?id=n0YPaJkBPC8&title=Nền+tảng+đóng+góp+tài+chính+từ+thiện,+sử+dụng+công+nghệ+blockchain+và+các+hệ+mật+để+bảo+mật&lang=vi&timestamp=1736764602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=321 "NỀN TẢNG ĐÓNG GÓP TÀI CHÍNH TỪ THIỆN, SỬ DỤNG CÔNG NGHỆ BLOCKCHAIN VÀ CÁC HỆ MẬT ĐỂ BẢO MẬT")](https://youtu.be/n0YPaJkBPC8?si=jPe9zNeJ2XoGLLyK)
 [![CRYPTO PRICE TICKERS | Thiết bị hiển thị giá nhiều loại tiền mã hóa, cập nhật liên tục và chính xác](https://ytcards.demolab.com/?id=hUmSBBVVLpE&title=Crypto+Price+Tickers+|+Thiết+bị+hiển+thị+giá+nhiều+loại+tiền+mã+hóa+,+cập+nhật+liên+tục+và+chính+xác&lang=vi&timestamp=1734606850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70 "CRYPTO PRICE TICKERS | Thiết bị hiển thị giá nhiều loại tiền mã hóa, cập nhật liên tục và chính xác")](https://www.youtube.com/watch?v=hUmSBBVVLpE&t=2s)
 
 ## 🔝 Top Contributed Repo 🔥:
@@ -63,6 +63,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Toandz1125/Crypto-price-tickers/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Toandz1125&repo=Crypto-price-tickers&theme=highcontrast" />
+</a>
+<a href="https://github.com/Toandz1125/Charity-Fundraising-Platform">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Toandz1125&repo=Charity-Fundraising-Platform&theme=highcontrast" />
 </a>
 
 ## 🏆 GitHub Trophies
