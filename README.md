@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Toandz1125&repo=Crypto-price-tickers&theme=highcontrast" />
 </a>
-<a href="https://github.com/Toandz1125/Charity-Fundraising-Platform/">
+<a href="https://github.com/Toandz1125/Charity-Fundraising-Platform">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Toandz1125&repo=Charity-Fundraising-Platform&theme=highcontrast" />
 </a>
