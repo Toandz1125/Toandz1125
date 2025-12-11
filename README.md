@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **VJU/VNU**
 - 👩🏻‍🎓 I’m currently learning **Blockchain & Backend**
 - 👩🏻‍💻 I’m looking to collaborate on **Information Security Dev Projects** 
-- 🎨 I’m looking for help with **Coding**
+- 🎨 I’m looking for help with **Idea**
 - 💭 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **naithetoan2005@gmail.com**
 - 🌷 Pronouns: He/Him
